@@ -22,6 +22,7 @@ Recommendations are based on many factors like - Movie titles, Directors, Actors
 ## Working
 
 Used NLTK, TFIDF Vectorizer, and Cosine Similarity to create this model.
+I didn't have movie posters in my data so I used a live movie poster fetching API using movie titles.
 Used Streamlit to build the frontend.
 Stored data and vectorizer using pickle module in python.
 
