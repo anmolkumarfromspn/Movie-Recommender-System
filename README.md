@@ -2,7 +2,9 @@
 
 Couldn't upload the project here in GitHub because of large file.
 You can access the project using my Google Drive Link - https://bit.ly/45GpFmw
-or you can scan this code in your smartphone to access this project - ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/e7d0d053-38f6-499f-9857-df699303c42c)
+or you can scan this code in your smartphone to access this project - 
+
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/e7d0d053-38f6-499f-9857-df699303c42c)
 
 ## Demo
 
