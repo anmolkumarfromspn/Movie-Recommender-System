@@ -1,7 +1,7 @@
 # Movie-Recommender-System
 
 
-Working Demo - https://www.linkedin.com/posts/anmol-kumar-0703b517a_machinelearning-movierecommender-aiprojects-activity-7100180039584919553-KygG?utm_source=share&utm_medium=member_desktop
+Working Demo - https://bit.ly/3E9DMoP
 
 
 Couldn't upload the project here in GitHub because of large file.
