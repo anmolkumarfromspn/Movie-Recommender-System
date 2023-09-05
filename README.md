@@ -1,7 +1,7 @@
 # Movie-Recommender-System
 
 
-Working Demo - https://bit.ly/3E9DMoP
+Working Demo Video Lnk- https://bit.ly/3E9DMoP
 
 
 Couldn't upload the project here in GitHub because of large file.
