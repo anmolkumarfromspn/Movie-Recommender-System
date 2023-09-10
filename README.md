@@ -21,6 +21,9 @@ By clicking of the recommend button user gets top 5 similar movies in results.
 Recommendations are based on many factors like - Movie titles, Directors, Actors, Movie Descriptions, etc.
 
 ## Working
+Applied some stemming, preprocessiung and data cleaning and later that I chose to add only three main cast actors (lead actors) - 
+
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/3fa1dece-1135-4685-8ec2-9c0aacbd54d8)
 
 Used NLTK, TFIDF Vectorizer, and Cosine Similarity to create this model.
 I didn't have movie posters in my data so I used a live movie poster fetching API using movie titles.
