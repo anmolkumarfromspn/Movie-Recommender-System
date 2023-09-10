@@ -25,6 +25,16 @@ Applied some stemming, preprocessiung and data cleaning and later that I chose t
 
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/3fa1dece-1135-4685-8ec2-9c0aacbd54d8)
 
+
+Created a tag columnm after applying data preprocessing  - 
+
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/ca12001d-4c97-47e4-a140-e10f67fd0d6a)
+
+Truned every movie into a vector and used cosine simiklarity to find the nearest neighbour - 
+
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/3e25de07-28bf-4460-b563-a578b357d563)
+
+
 Used NLTK, TFIDF Vectorizer, and Cosine Similarity to create this model.
 I didn't have movie posters in my data so I used a live movie poster fetching API using movie titles.
 Used Streamlit to build the frontend.
