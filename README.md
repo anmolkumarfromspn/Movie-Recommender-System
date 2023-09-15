@@ -80,7 +80,7 @@ Used Streamlit library to build a strong and visually appealing frontend.
 
 ## Movie Recommender System 
 
-Working Demo Video Lnk- https://bit.ly/3E9DMoP
+Working Demo Video Link- https://bit.ly/3E9DMoP
 
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/56f99f42-bda8-4c26-8d67-9563fc580a27)
 
