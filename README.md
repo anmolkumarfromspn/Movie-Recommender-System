@@ -30,19 +30,24 @@ Here are some important key steps followed in this project: -
 
 ### Data Preprocessing
 
-Step 1:-
+Step 1:- Importing important libraries, reading datasets, and printing preview of datasets.
+
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/9ffddd82-c95c-45d8-8f8a-752238e5d7c4)
 
-Step 2:-
+Step 2:- Recducing Features
+
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/62fc1dfc-3900-4d85-91f6-d9de6e5adfe7)
 
-Step 3:-
+Step 3:- Data Preprocessing
+
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/9ee9c99d-5542-4b75-8de3-bd30313c0216)
 
-Step 4:-
+Step 4:- Creating Tag Columns
+
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/11237607-35cc-4ba4-9768-19e2489af86e)
 
-Step 5:-
+Step 5:- Finalizing the dataset for model building
+
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/54ffc9f5-064f-49c4-8c9e-99760092c155)
 
 ## Model Building
