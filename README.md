@@ -116,6 +116,7 @@ Learning NLTK Library and data preprocessing techniques to prepare the data for 
 3. Data Preprocessing
 4. TFIDF/Count Vectorizer
 5. Streamlit Library
+6. Creating a Virtual Environment
 
 ## Conclusion
 
