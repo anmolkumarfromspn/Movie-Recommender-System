@@ -61,7 +61,9 @@ Defined a recommender function which will take a movie name as an input and retu
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/07b5644b-40b3-43ec-8797-9e4c7dd98ca8)
 
 ### Storing Model and Data
+
 Used pickle library to store data and similarity vector array.
+
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/3ba8989c-199f-4dcc-a104-3736582a84aa)
 
 ### Developing Main Python App
