@@ -113,7 +113,9 @@ In the evolving landscape of entertainment, the Machine Learning Movie Recommend
 
 ## Limitations
 
-
+1. User Personaliszed Recommendations: This recommender system dosen't record behavioral data for different user. That's why it can't customize recommendations according to different user's different viewing preferences.
+2. Data Quality and Quantity: This model is trained over 5000 movie data which is less than the needed size to train a movbie recommendation system. There are almost 15-20 different genres available in the movie market which means the data had only 250 movies per genre. So the model can struggle in differentiating between different genres.
+3. User Feedback: No user feedback system is implemented in this project. Improving on the basis of user's feedback is very important for recommendations models. User preferences can change over time, and this recommender system can not adapt them to reflect these changes.
 
 ## Challenges
 
