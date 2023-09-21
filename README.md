@@ -41,14 +41,14 @@ Here are some important key steps followed in this project: -
 Text Preprocessing: -
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/acdaa8cc-a6a4-4fb5-a184-72a6928b58f3)
 
-#### Step 4:- Stemming
+Stemming: -
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/bef3dcc7-02b7-4ec0-af42-6d89542258a7)
 
-#### Step 5:- Creating Tag Columns (Final column for the descriptive text containg information about movie actors, directors, genres, description, etc.)
+#### Step 4:- Creating Tag Columns (Final column for the descriptive text containg information about movie actors, directors, genres, description, etc.)
 
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/0619d7d6-fe1c-4da5-b520-06cde1daf7b6)
 
-#### Step 6:- Finalizing the dataset for model building
+#### Step 5:- Finalizing the dataset for model building
 
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/54ffc9f5-064f-49c4-8c9e-99760092c155)
 
