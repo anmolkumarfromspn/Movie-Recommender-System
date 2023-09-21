@@ -54,11 +54,11 @@ Stemming: -
 
 ## Model Building
 
-Step 1:-
+#### Step 1:-
 Turned every movie into a vector so that user can extract nearest neighbour movie vector which is the required similar output.
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/561c4554-2f71-4257-b6ca-f11b86ca4c29)
 
-Step 2:-
+#### Step 2:-
 Defined a recommender function which will take a movie name as an input and return top 5 most similar movies' names as an output (recommendations)
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/fadd3f5b-6966-4de4-8e4d-071db49b2c2a)
 
@@ -84,6 +84,10 @@ Using a special library "movieposters" to get real time high-quality movie poste
 Used Streamlit library to build a strong and visually appealing frontend.
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/964bb8aa-bff3-4212-a8ad-baf6162ffbe4)
 
+## Evaluation Metrics
+
+This project model is working on the basis of cosine similary and nearest neighbour vector suggestion technique so no statistical model was trained over this dataset to achive this outcome. So getting accuracy score is not possible in this project but this project makes sure that the recommendations (outputs) are provided with the highest similarity to the input. 
+
 ## Movie Recommender System 
 
 Working Demo Video Link- https://bit.ly/3E9DMoP
@@ -98,10 +102,6 @@ By clicking of the recommend button user gets top 5 similar movies in results.
 ![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/7c0f79f6-e69b-46b5-9b6a-0a5aa269c8a8)
 
 Recommendations are based on many factors like - Movie titles, Directors, Actors, Movie Descriptions, etc.
-
-## Evaluation Metrics
-
-This project model is working on the basis of cosine similary and nearest neighbour vector suggestion technique so no statistical model was trained over this dataset to achive this outcome. So getting accuracy score is not possible in this project but this project makes sure that the recommendations (outputs) are provided with the highest similarity to the input. 
 
 ## Tools used
 
