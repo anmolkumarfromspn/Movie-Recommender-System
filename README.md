@@ -111,6 +111,10 @@ Recommendations are based on many factors like - Movie titles, Directors, Actors
 
 In the evolving landscape of entertainment, the Machine Learning Movie Recommender System aims to further enhance its capabilities. The future scope of this project includes a focus on advanced personalization techniques, delving into deeper user profiling to understand preferences on a granular level. Additionally, exploring the integration of emerging technologies like natural language processing and sentiment analysis for user reviews and feedback will contribute to a more holistic and accurate recommendation system, keeping users engaged and satisfied with their movie choices.
 
+## Limitations
+
+
+
 ## Challenges
 
 Learning NLTK Library and data preprocessing techniques to prepare the data for best model building can result in many ways or techniques. So choosing best techniques for this model among variuos available and applying them each and noticing accuracy manually was a real challenge in this project. 
