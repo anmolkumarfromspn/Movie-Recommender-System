@@ -56,29 +56,33 @@ Step 5:- Finalizing the dataset for model building
 
 Step 1:-
 Turned every movie into a vector so that user can extract nearest neighbour movie vector which is the required similar output.
-![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/08e51972-b129-4707-b61c-2e1def2efea2)
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/561c4554-2f71-4257-b6ca-f11b86ca4c29)
 
 Step 2:-
-Defined a recommender function which will take a movie name as an input and retuyrn top 5 most similart movies' names as an output (recommendations)
-![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/07b5644b-40b3-43ec-8797-9e4c7dd98ca8)
+Defined a recommender function which will take a movie name as an input and return top 5 most similar movies' names as an output (recommendations)
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/fadd3f5b-6966-4de4-8e4d-071db49b2c2a)
 
 ### Storing Model and Data
 
 Used pickle library to store data and similarity vector array.
 
-![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/3ba8989c-199f-4dcc-a104-3736582a84aa)
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/f0dc0165-38ac-473f-bbd2-585e2de2619a)
 
 ### Developing Main Python App
+
+#### Important Libraries
+
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/4e13050b-3508-4742-85f9-d8be5e509df1)
 
 #### Backend
 Using pickle to load dumped ML model and data
 Using pandas to read and fetch the data
 Using a special library "movieposters" to get real time high-quality movie posters so there must not be a need to store 5000 high-quality movie posters locally.
-![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/6ef9035c-941d-41ac-8667-55cc0fc2a0ea)
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/62233407-2486-41c0-bc5d-ca05cfbb7c61)
 
 #### Frontend
 Used Streamlit library to build a strong and visually appealing frontend.
-![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/30614e0f-923c-48e5-bd4e-bb33a687420f)
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/964bb8aa-bff3-4212-a8ad-baf6162ffbe4)
 
 ## Movie Recommender System 
 
