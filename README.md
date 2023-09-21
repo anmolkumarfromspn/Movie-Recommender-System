@@ -50,7 +50,7 @@ Stemming: -
 
 #### Step 5:- Finalizing the dataset for model building
 
-![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/54ffc9f5-064f-49c4-8c9e-99760092c155)
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/e8ee5f6a-89db-4af1-9999-bfc820420b1c)
 
 ## Model Building
 
