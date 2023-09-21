@@ -23,20 +23,18 @@ This dataset contains the movie credits information like crew, cast, etc.
 
 Both Datasets are available on kaggle: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
-## Data Cleaning/Preprocessing
+## Data Cleaning & Preprocessing
 
 Various important pythoin libraries were used in this project from reading datasets to extracting only needed features, data preprocessing by applying NLP using NLTK to storing model and data with the help of pickle library.
 Here are some important key steps followed in this project: -
 
-### Data Preprocessing
-
 Step 1:- Importing important libraries, reading datasets, and printing preview of datasets.
 
-![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/9ffddd82-c95c-45d8-8f8a-752238e5d7c4)
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/72446861-f1d0-4cd6-99ba-892ed6c3acea)
 
 Step 2:- Recducing Features
 
-![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/62fc1dfc-3900-4d85-91f6-d9de6e5adfe7)
+![image](https://github.com/anmolkumarfromspn/Movie-Recommender-System/assets/128449996/f4f98caf-5d08-49e9-838d-696ae31ce50e)
 
 Step 3:- Data Preprocessing
 
