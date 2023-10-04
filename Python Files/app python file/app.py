@@ -47,15 +47,15 @@ if st.button("Recommend"):
 
     col1, col2, col3, col4, col5 = st.columns(5)
 
-    with col1:
+    with col1: # Movie -1 
 
-        st.image(mp.get_poster(title=recommendations[0]))
-        st.text(recommendations[0])
+        st.image(mp.get_poster(title=recommendations[0])) # Poster of Movie -1
+        st.text(recommendations[0]) # Title of Movie -1
 
-    with col2:
+    with col2: # Movie -2
 
-        st.image(mp.get_poster(title=recommendations[1]))
-        st.text(recommendations[1])
+        st.image(mp.get_poster(title=recommendations[1])) # Poster of Movie -2
+        st.text(recommendations[1]) # Title of Movie -3
 
     with col3:
 
